@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a2203e8-c7da-4caa-a27c-ffb2f4e75268" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ViewModels/UserViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/Filters/SwaggerHeaderParameter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModels/LoginViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/Filters/SwaggerSecurityReqDocumentFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/AuthorizationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MapperProfiles/UserMapperProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Objects/AuthenticationType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModels/NewExternalUserViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Objects/UserStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModels/NewUserViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E407D4BA-C36C-45DA-982B-FD389A659F31/0/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Services/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C8EEE3DB-3DBF-44D9-A80B-E4ECF6413BAE/6/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/Repositories/UserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/UserModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Services/UserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/IUserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4CF17712-9ED0-4C5D-874D-48FEBCC62BBD/3F/OpenApiSecurityRequirement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/AuthorizationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4CF17712-9ED0-4C5D-874D-48FEBCC62BBD/3E/OpenApiSchema.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4CF17712-9ED0-4C5D-874D-48FEBCC62BBD/40/OpenApiSecurityScheme.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB1F504D-FD60-42BA-B653-55A4F19D8AD3/51/1142058b/SwaggerGenOptionsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4CF17712-9ED0-4C5D-874D-48FEBCC62BBD/39/OpenApiParameter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Infraestructure/Repositories/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/Repositories/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/Data/AuthorizationDbContext.cs" />
+        <option value="$PROJECT_DIR$/Models/UserModel.cs" />
+        <option value="$PROJECT_DIR$/ViewModels/LoginViewModel.cs" />
+        <option value="$PROJECT_DIR$/MapperProfiles/UserModelMapper.cs" />
+        <option value="$PROJECT_DIR$/Objects/AuthenticationType.cs" />
+        <option value="$PROJECT_DIR$/Objects/UserStatus.cs" />
+        <option value="$PROJECT_DIR$/ViewModels/NewUserViewModel.cs" />
+        <option value="$PROJECT_DIR$/Models/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/ViewModels/NewExternalUserViewModel.cs" />
+        <option value="$PROJECT_DIR$/ViewModels/UserViewModel.cs" />
+        <option value="$PROJECT_DIR$/MapperProfiles/UserMapperProfile.cs" />
+        <option value="$PROJECT_DIR$/appsettings.json" />
+        <option value="$PROJECT_DIR$/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/Services/IUserService.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/Repositories/UserRepository.cs" />
+        <option value="$PROJECT_DIR$/Controllers/AuthorizationController.cs" />
+        <option value="$PROJECT_DIR$/Services/UserService.cs" />
+        <option value="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/Filters/SwaggerSecurityReqDocumentFilter.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/Filters/SwaggerHeaderParameter.cs" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aj3V7gnxXZFoktwFWsFIDXh6fU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Authorization.API">
+    <configuration name="Authorization.API" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Authorization.API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="Authorization.API" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Authorization.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Authorization.API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a2203e8-c7da-4caa-a27c-ffb2f4e75268" name="Default Changelist" comment="" />
+      <created>1587235196285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587235196285</updated>
+      <workItem from="1587235197984" duration="11071000" />
+      <workItem from="1587268028328" duration="7293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="474" height="466" key="DebuggerActiveHint" timestamp="1587267202691">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="474" height="466" key="DebuggerActiveHint/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587267202691" />
+    <state width="1238" height="107" key="GridCell.Tab.0.bottom" timestamp="1587275770273">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.0.bottom/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350169" />
+    <state width="1238" height="107" key="GridCell.Tab.0.bottom/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361821" />
+    <state width="1238" height="107" key="GridCell.Tab.0.bottom/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124882" />
+    <state width="1238" height="107" key="GridCell.Tab.0.bottom/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770273" />
+    <state width="1238" height="107" key="GridCell.Tab.0.center" timestamp="1587275770270">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.0.center/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350154" />
+    <state width="1238" height="107" key="GridCell.Tab.0.center/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361817" />
+    <state width="1238" height="107" key="GridCell.Tab.0.center/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124874" />
+    <state width="1238" height="107" key="GridCell.Tab.0.center/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770270" />
+    <state width="1238" height="107" key="GridCell.Tab.0.left" timestamp="1587275770268">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.0.left/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350152" />
+    <state width="1238" height="107" key="GridCell.Tab.0.left/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361808" />
+    <state width="1238" height="107" key="GridCell.Tab.0.left/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124735" />
+    <state width="1238" height="107" key="GridCell.Tab.0.left/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770268" />
+    <state width="1238" height="107" key="GridCell.Tab.0.right" timestamp="1587275770272">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.0.right/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350156" />
+    <state width="1238" height="107" key="GridCell.Tab.0.right/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361819" />
+    <state width="1238" height="107" key="GridCell.Tab.0.right/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124877" />
+    <state width="1238" height="107" key="GridCell.Tab.0.right/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770272" />
+    <state width="1238" height="107" key="GridCell.Tab.1.bottom" timestamp="1587275770286">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.1.bottom/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350185" />
+    <state width="1238" height="107" key="GridCell.Tab.1.bottom/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361236" />
+    <state width="1238" height="107" key="GridCell.Tab.1.bottom/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124061" />
+    <state width="1238" height="107" key="GridCell.Tab.1.bottom/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770286" />
+    <state width="1238" height="107" key="GridCell.Tab.1.center" timestamp="1587275770282">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.1.center/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350174" />
+    <state width="1238" height="107" key="GridCell.Tab.1.center/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361222" />
+    <state width="1238" height="107" key="GridCell.Tab.1.center/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124050" />
+    <state width="1238" height="107" key="GridCell.Tab.1.center/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770282" />
+    <state width="1238" height="107" key="GridCell.Tab.1.left" timestamp="1587275770276">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.1.left/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350171" />
+    <state width="1238" height="107" key="GridCell.Tab.1.left/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361220" />
+    <state width="1238" height="107" key="GridCell.Tab.1.left/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124047" />
+    <state width="1238" height="107" key="GridCell.Tab.1.left/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770276" />
+    <state width="1238" height="107" key="GridCell.Tab.1.right" timestamp="1587275770285">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.1.right/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350176" />
+    <state width="1238" height="107" key="GridCell.Tab.1.right/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361224" />
+    <state width="1238" height="107" key="GridCell.Tab.1.right/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124052" />
+    <state width="1238" height="107" key="GridCell.Tab.1.right/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770285" />
+    <state width="1238" height="107" key="GridCell.Tab.2.bottom" timestamp="1587275770298">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.2.bottom/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350191" />
+    <state width="1238" height="107" key="GridCell.Tab.2.bottom/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361256" />
+    <state width="1238" height="107" key="GridCell.Tab.2.bottom/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124068" />
+    <state width="1238" height="107" key="GridCell.Tab.2.bottom/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770298" />
+    <state width="1238" height="107" key="GridCell.Tab.2.center" timestamp="1587275770289">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.2.center/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350188" />
+    <state width="1238" height="107" key="GridCell.Tab.2.center/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361243" />
+    <state width="1238" height="107" key="GridCell.Tab.2.center/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124065" />
+    <state width="1238" height="107" key="GridCell.Tab.2.center/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770289" />
+    <state width="1238" height="107" key="GridCell.Tab.2.left" timestamp="1587275770288">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.2.left/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350187" />
+    <state width="1238" height="107" key="GridCell.Tab.2.left/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361239" />
+    <state width="1238" height="107" key="GridCell.Tab.2.left/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124063" />
+    <state width="1238" height="107" key="GridCell.Tab.2.left/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770288" />
+    <state width="1238" height="107" key="GridCell.Tab.2.right" timestamp="1587275770291">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.2.right/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350189" />
+    <state width="1238" height="107" key="GridCell.Tab.2.right/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361252" />
+    <state width="1238" height="107" key="GridCell.Tab.2.right/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124067" />
+    <state width="1238" height="107" key="GridCell.Tab.2.right/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770291" />
+    <state width="1238" height="107" key="GridCell.Tab.3.bottom" timestamp="1587275770305">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.3.bottom/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350202" />
+    <state width="1238" height="107" key="GridCell.Tab.3.bottom/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361282" />
+    <state width="1238" height="107" key="GridCell.Tab.3.bottom/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124080" />
+    <state width="1238" height="107" key="GridCell.Tab.3.bottom/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770305" />
+    <state width="1238" height="107" key="GridCell.Tab.3.center" timestamp="1587275770302">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.3.center/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350200" />
+    <state width="1238" height="107" key="GridCell.Tab.3.center/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361273" />
+    <state width="1238" height="107" key="GridCell.Tab.3.center/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124078" />
+    <state width="1238" height="107" key="GridCell.Tab.3.center/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770302" />
+    <state width="1238" height="107" key="GridCell.Tab.3.left" timestamp="1587275770300">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.3.left/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350192" />
+    <state width="1238" height="107" key="GridCell.Tab.3.left/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361271" />
+    <state width="1238" height="107" key="GridCell.Tab.3.left/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124076" />
+    <state width="1238" height="107" key="GridCell.Tab.3.left/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770300" />
+    <state width="1238" height="107" key="GridCell.Tab.3.right" timestamp="1587275770304">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.3.right/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350201" />
+    <state width="1238" height="107" key="GridCell.Tab.3.right/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361275" />
+    <state width="1238" height="107" key="GridCell.Tab.3.right/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124079" />
+    <state width="1238" height="107" key="GridCell.Tab.3.right/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770304" />
+    <state width="1238" height="107" key="GridCell.Tab.4.bottom" timestamp="1587275770317">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.4.bottom/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350217" />
+    <state width="1238" height="107" key="GridCell.Tab.4.bottom/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361292" />
+    <state width="1238" height="107" key="GridCell.Tab.4.bottom/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124092" />
+    <state width="1238" height="107" key="GridCell.Tab.4.bottom/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770317" />
+    <state width="1238" height="107" key="GridCell.Tab.4.center" timestamp="1587275770308">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.4.center/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350206" />
+    <state width="1238" height="107" key="GridCell.Tab.4.center/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361289" />
+    <state width="1238" height="107" key="GridCell.Tab.4.center/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124083" />
+    <state width="1238" height="107" key="GridCell.Tab.4.center/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770308" />
+    <state width="1238" height="107" key="GridCell.Tab.4.left" timestamp="1587275770306">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.4.left/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350204" />
+    <state width="1238" height="107" key="GridCell.Tab.4.left/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361286" />
+    <state width="1238" height="107" key="GridCell.Tab.4.left/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124081" />
+    <state width="1238" height="107" key="GridCell.Tab.4.left/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770306" />
+    <state width="1238" height="107" key="GridCell.Tab.4.right" timestamp="1587275770314">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="107" key="GridCell.Tab.4.right/-86.-745.1366.745/0.0.1280.751/1280.-949.1920.1057@0.0.1280.751" timestamp="1587274350208" />
+    <state width="1238" height="107" key="GridCell.Tab.4.right/-86.-745.1366.745/0.0.1280.800/1280.-949.1920.1057@0.0.1280.800" timestamp="1587274361291" />
+    <state width="1238" height="107" key="GridCell.Tab.4.right/-86.-745.1366.745/0.23.1280.728/1280.-949.1920.1057@0.23.1280.728" timestamp="1587274124084" />
+    <state width="1238" height="107" key="GridCell.Tab.4.right/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587275770314" />
+    <state x="329" y="97" key="RiderGenerateDialog" timestamp="1587243745295">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="329" y="97" key="RiderGenerateDialog/0.0.1280.800@0.0.1280.800" timestamp="1587243745295" />
+    <state x="303" y="108" width="672" height="748" key="search.everywhere.popup" timestamp="1587272096709">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="303" y="108" width="672" height="748" key="search.everywhere.popup/-86.-768.1366.768/0.0.1280.800/1280.-972.1920.1080@0.0.1280.800" timestamp="1587272096709" />
+    <state x="303" y="108" width="672" height="748" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1587249325126" />
+    <state x="303" y="121" width="672" height="678" key="search.everywhere.popup/0.23.1280.726@0.23.1280.726" timestamp="1587244794437" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Services/UserService.cs</url>
+          <line>100</line>
+          <properties documentPath="$PROJECT_DIR$/Services/UserService.cs" initialLine="60">
+            <startOffsets>
+              <option value="4103" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4382" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
